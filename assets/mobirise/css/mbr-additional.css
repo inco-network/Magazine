@@ -1,0 +1,102 @@
+#dropdown-menu-2btn-0 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-0 .nav .link,
+#dropdown-menu-2btn-0 .dropdown-item {
+  font-size: 1em;
+  color: #0a2813;
+}
+#dropdown-menu-2btn-0 .navbar,
+#dropdown-menu-2btn-0 .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-2btn-0 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-0 .dropdown-menu a:hover,
+#dropdown-menu-2btn-0 .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-2btn-0 .navbar-toggler {
+  color: #0a2813;
+}
+#header1-1 P {
+  color: #0a2813;
+}
+#content5-d .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+#content5-d .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-d .mbr-article {
+  color: #fff;
+}
+#slider-2 H1 {
+  color: #efefef;
+}
+#slider-2 P {
+  color: #efefef;
+}
+#msg-box3-4 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-4 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box5-5 .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box5-5 .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box5-5 .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-h .mbr-header__text {
+  color: #000000;
+}
+#msg-box4-h .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-h .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-h .mbr-article P {
+  color: #000000;
+}
+#msg-box4-i .mbr-header__text {
+  color: #000000;
+}
+#msg-box4-i .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-i .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-i .mbr-article P {
+  color: #000000;
+}
+#header3-s H3 {
+  text-align: center;
+}
+#dropdown-menu-2btn-l .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-l .nav .link,
+#dropdown-menu-2btn-l .dropdown-item {
+  font-size: 1em;
+  color: #0a2813;
+}
+#dropdown-menu-2btn-l .navbar,
+#dropdown-menu-2btn-l .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-2btn-l .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-l .dropdown-menu a:hover,
+#dropdown-menu-2btn-l .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-2btn-l .navbar-toggler {
+  color: #0a2813;
+}
