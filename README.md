@@ -1,0 +1,2 @@
+# Magazine
+GitHub Pages
