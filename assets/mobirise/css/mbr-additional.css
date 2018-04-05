@@ -100,3 +100,26 @@
 #dropdown-menu-2btn-l .navbar-toggler {
   color: #0a2813;
 }
+#header3-1t H3 {
+  text-align: center;
+}
+#dropdown-menu-2btn-1y .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-1y .nav .link,
+#dropdown-menu-2btn-1y .dropdown-item {
+  font-size: 1em;
+  color: #0a2813;
+}
+#dropdown-menu-2btn-1y .navbar,
+#dropdown-menu-2btn-1y .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-2btn-1y .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-1y .dropdown-menu a:hover,
+#dropdown-menu-2btn-1y .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-2btn-1y .navbar-toggler {
+  color: #0a2813;
+}
