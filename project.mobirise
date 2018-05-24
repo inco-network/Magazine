@@ -4,7 +4,7 @@
     "currentPage": "page3.html",
     "theme": {
       "name": "default",
-      "title": "Mobirise",
+      "title": "inco network magazine",
       "styling": {},
       "additionalSetColors": [
         "#0a2813",
@@ -76,7 +76,7 @@
               "src": "@PROJECT_PATH@/assets/images/cms-project-126x73.png",
               "class": "",
               "height": 128,
-              "alt": "Mobirise",
+              "alt": "Inco",
               "link": "index.html",
               "title": "",
               "linkInNewWindow": false
