@@ -123,3 +123,23 @@
 #dropdown-menu-2btn-1y .navbar-toggler {
   color: #0a2813;
 }
+#dropdown-menu-2btn-22 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-22 .nav .link,
+#dropdown-menu-2btn-22 .dropdown-item {
+  font-size: 1em;
+  color: #0a2813;
+}
+#dropdown-menu-2btn-22 .navbar,
+#dropdown-menu-2btn-22 .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-2btn-22 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-22 .dropdown-menu a:hover,
+#dropdown-menu-2btn-22 .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-2btn-22 .navbar-toggler {
+  color: #0a2813;
+}
