@@ -53,6 +53,20 @@
 #msg-box5-5 .mbr-article {
   color: #ffffff;
 }
+#msg-box4-26 .mbr-header__text {
+  color: #000000;
+}
+#msg-box4-26 .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-26 .mbr-article {
+  color: #000000;
+  font-size: 20px;
+}
+#msg-box4-26 .mbr-article DIV {
+  text-align: left;
+  font-size: 20px;
+}
 #msg-box4-h .mbr-header__text {
   color: #000000;
 }
