@@ -473,7 +473,7 @@
             "showButtons": false,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "columns": "3",
+            "columns": "2",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
