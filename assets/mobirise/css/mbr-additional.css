@@ -137,26 +137,6 @@
 #dropdown-menu-2btn-1y .navbar-toggler {
   color: #0a2813;
 }
-#dropdown-menu-2btn-22 .hide-buttons [data-button] {
-  display: none !important;
-}
-#dropdown-menu-2btn-22 .nav .link,
-#dropdown-menu-2btn-22 .dropdown-item {
-  font-size: 1em;
-  color: #0a2813;
-}
-#dropdown-menu-2btn-22 .navbar,
-#dropdown-menu-2btn-22 .dropdown-menu {
-  background: #ffffff;
-}
-#dropdown-menu-2btn-22 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
-#dropdown-menu-2btn-22 .dropdown-menu a:hover,
-#dropdown-menu-2btn-22 .dropdown-menu a:focus {
-  background: #f5f5f5;
-}
-#dropdown-menu-2btn-22 .navbar-toggler {
-  color: #0a2813;
-}
 #header3-1t H3 {
   text-align: center;
 }
@@ -201,5 +181,83 @@
   background: #f5f5f5;
 }
 #dropdown-menu-2btn-1y .navbar-toggler {
+  color: #0a2813;
+}
+#dropdown-menu-2btn-0 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-0 .nav .link,
+#dropdown-menu-2btn-0 .dropdown-item {
+  font-size: 1em;
+  color: #0a2813;
+}
+#dropdown-menu-2btn-0 .navbar,
+#dropdown-menu-2btn-0 .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-2btn-0 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-0 .dropdown-menu a:hover,
+#dropdown-menu-2btn-0 .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-2btn-0 .navbar-toggler {
+  color: #0a2813;
+}
+#header1-1 P {
+  color: #0a2813;
+}
+#content5-28 .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+#content5-28 .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-28 .mbr-article {
+  color: #fff;
+}
+#msg-box5-27 .mbr-header__text {
+  color: #000000;
+}
+#msg-box5-27 .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box5-27 .mbr-article {
+  color: #000000;
+}
+#msg-box5-27 .mbr-article P {
+  color: #000000;
+}
+#content4-2a P {
+  color: #0a2813;
+}
+#msg-box4-29 .mbr-header__text {
+  color: #000000;
+}
+#msg-box4-29 .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-29 .mbr-article {
+  color: #000000;
+}
+#msg-box4-29 .mbr-article P {
+  color: #000000;
+}
+#features1-2c P {
+  color: #000000;
+  text-align: left;
+  font-size: 20px;
+}
+#msg-box4-25 .mbr-header__text {
+  color: #0a2813;
+}
+#msg-box4-25 .mbr-header__subtext {
+  color: #0a2813;
+}
+#msg-box4-25 .mbr-article {
+  color: #000000;
+}
+#msg-box4-25 .mbr-article P {
   color: #0a2813;
 }
