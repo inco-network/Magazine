@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Home shop n more demo",
-    "currentPage": "index.html",
+    "currentPage": "stores.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -4233,7 +4233,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mori-cutlery-10-copy-1280x720.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mori-kitchen-1-779x538.png",
               "link": "",
               "alt": "",
               "title": ""
