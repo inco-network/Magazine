@@ -261,3 +261,30 @@
 #msg-box4-25 .mbr-article P {
   color: #0a2813;
 }
+#msg-box4-27 .mbr-header__text {
+  color: #000000;
+}
+#msg-box4-27 .mbr-header__subtext {
+  color: #000000;
+}
+#msg-box4-27 .mbr-article {
+  color: #000000;
+  font-size: 22px;
+}
+#msg-box4-27 .mbr-article P {
+  color: #000000;
+}
+#msg-box4-28 .mbr-header__text {
+  color: #000000;
+}
+#msg-box4-28 .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-28 .mbr-article {
+  color: #000000;
+  font-size: 22px;
+}
+#msg-box4-28 .mbr-article P {
+  color: #000000;
+  font-size: 22px;
+}

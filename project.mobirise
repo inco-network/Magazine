@@ -9,17 +9,26 @@
       "additionalSetColors": [
         "#0a2813",
         "#615f0e",
-        "#0f1dea"
+        "#0f1dea",
+        "#2c2a20"
       ]
     },
     "versionFirst": "4.6.2",
-    "uniqCompNum": 78,
+    "uniqCompNum": 86,
     "versionPublish": "4.9.4",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "favicon": "",
     "noImageResize": "",
-    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='http://inco-network.blogspot.gr/p/blog-page_28.html'>cookie policy</a>.",
+    "cookiesAlert": {
+      "colorText": "#424a4d",
+      "colorBg": "#eaeff1",
+      "colorButton": "#ffffff",
+      "colorLink": "#424a4d",
+      "underlineLink": true,
+      "opacity": "99",
+      "text": "We use cookies to give you the best experience. Read our <a href='http://inco-network.blogspot.gr/p/blog-page_28.html'>cookie policy</a>."
+    },
     "google-analytics": "",
     "siteUrl": "",
     "sitemapSwitcherAuto": "on",
@@ -151,7 +160,7 @@
             "paddingTop": "3",
             "paddingBottom": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1920x1280.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1276.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -394,25 +403,28 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/stage-2-image-expirement-orrefors-2-1200x720.png",
-                "thumb": "@PROJECT_PATH@/assets/images/stage-2-image-expirement-orrefors-2-1200x720-800x480.png",
+                "image": "@PROJECT_PATH@/assets/images/adjustuble-3-lights-bromze-1280x720.png",
+                "thumb": "@PROJECT_PATH@/assets/images/adjustuble-3-lights-bromze-1280x720-800x450.png",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": false,
+                "title": ""
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/stage-2-image-expirement-orrefors-1200x720.png",
-                "thumb": "@PROJECT_PATH@/assets/images/stage-2-image-expirement-orrefors-1200x720-800x480.png",
+                "image": "@PROJECT_PATH@/assets/images/untitled-2a-copy-1221x701.png",
+                "thumb": "@PROJECT_PATH@/assets/images/untitled-2a-copy-1221x701-800x459.png",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": false,
+                "title": ""
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/stage-2-image-expirement-new-1200x720.png",
-                "thumb": "@PROJECT_PATH@/assets/images/stage-2-image-expirement-new-1200x720-800x480.png",
+                "image": "@PROJECT_PATH@/assets/images/mori-cutlery-claire-copy-1280x720.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mori-cutlery-claire-copy-1280x720-800x450.jpg",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": true,
+                "title": ""
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/stage-2-image-expirement-1200x720.png",
@@ -426,7 +438,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/snap-shot-eshop-opalina-1277x582-800x364.png",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/stage-2-image-expirement-2-1200x720.jpg",
@@ -563,9 +575,12 @@
           "media4": {
             "image": {
               "active": true,
-              "src": "images/unlimited-websites.png",
+              "src": "@PROJECT_PATH@/assets/images/%CE%9F%CE%B9%CE%BA%CE%BF%CE%BD%CE%BF%CE%BC%CE%B9%CE%BA%CE%AE%20%CF%83%CE%B5%CE%B9%CF%81%CE%AC%20%CF%83%CE%BA%CE%B7%CE%BD%CE%AE%201%20-2copy-600x338.png",
               "class": "mbr-figure__img",
-              "width": 600
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
             },
             "video": {
               "class": "mbr-figure__img",
@@ -3641,7 +3656,7 @@
             "showArrow": true,
             "contentAlign": "right",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1920x1280.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
@@ -3694,8 +3709,8 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1276.jpg",
-            "parallax": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mori-cutlery-4-copy-1280x720.jpg",
+            "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
             "bgVideoRadio": false,
@@ -3703,9 +3718,9 @@
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "darkBackground": true,
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#475577",
-            "overlayOpacity": 0.2
+            "overlayOpacity": "0.5"
           },
           "title": "Στυλ κλασικό!",
           "text": "Στο trailer θέλουμε να πούμε ότι στο εργαστήριο, όταν ετοιμάζουμε την επόμενη δουλειά επικρατεί ένας χαμός.\n<div>Ασχολούμαστε με τη κατασκευή το εμπόριο τη προβολή τη πληροφορία τη διαφήμιση\n</div><div>Ειδικότητα μας είναι τα θέματα διακόσμηση εσωτερικών εξωτερικών χώρων φωτισμός έπιπλα διάφορα αντικείμενα λεπτομέρειες κατασκευής ποιότητα ειδικές τεχνικές λεπτομέρειες.Πώληση, διαφήμιση, Κατασκευή ιστοσελίδων, διαφημιστικών κειμένων, e-shop</div>",
@@ -4276,17 +4291,159 @@
           "_anchor": "msg-box4-25"
         },
         {
-          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_inherit": "msg-box5",
           "_params": {
-            "autoplay": false,
-            "fullScreen": false,
+            "showTitle": false,
+            "showMeta": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "60",
             "paddingTop": "1",
-            "paddingBottom": 3,
-            "showBullets": true,
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
             "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/mori-cutlery-3-copy-1280x720.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Επιλέγουμε όπως στα σερβίτσια πιάτων",
+          "text": "Όπως στα πιάτα έτσι και στα μαχαιροπήρουνα επιλέγουμε σε επισημα ή καθημερινά. Βρισκουμε αυτό που μας τεριάζει περισσσότερο, σχέδιο ή χρώμα ή σχήμα.",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#000000"
+            },
+            ".mbr-header__subtext": {
+              "color": "#000000"
+            },
+            ".mbr-article": {
+              "color": "#000000",
+              "font-size": "22px"
+            },
+            ".mbr-article P": {
+              "color": "#000000"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "Home Shop N More 12/3/2020",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-link\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-27"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": false,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "60",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/mori-cutlery-14-3-copy-600x338.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "DRAG AND DROP WEBSITE BUILDER",
+          "text": "<p>Πολλά προιόντα επώνυμων εταιριών εχουν στάνταρ ποιότητα και αντοχή υλικών που μας επιτρέπη να ασχολήθούμε με περισσότερες λεπτομέρειες&nbsp;</p><p>Συλλογές μαχαιροπήρουνα υψηλού επιπέδου ποιότητας, χάρη στον επιδέξιο συνδυασμό της κομψότητας και της καινοτομίας, του σχεδιασμού και της αξιοπιστίας.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#000000"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#000000",
+              "font-size": "22px"
+            },
+            ".mbr-article P": {
+              "color": "#000000",
+              "font-size": "22px"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-link\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-28"
+        },
+        {
+          "_inherit": "slider",
+          "_afterNavbarItem": ".mbr-slider",
+          "_params": {
+            "autoplay": true,
+            "showBullets": true,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/mori-cutlery-3-copy-1280x720.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mori-cutlery-bw-g-copy-1280x720.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -4295,22 +4452,25 @@
                 "contentAlign": "right",
                 "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlay": false
+                "overlay": true,
+                "overlayOpacity": "0.2"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/-2-copy-1280x720.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/mori-cutlery-arcadia-copy-1280x720.jpg",
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
                 "title": "Slide 2",
                 "contentAlign": "left",
                 "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlay": true,
+                "overlayOpacity": "0.2"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/mori-cutlery-7-copy-1280x720.jpg",
-                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/mori-cutlery-claire-copy-1280x720.jpg",
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -4318,17 +4478,18 @@
                 "contentAlign": "center",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlay": false,
-                "overlayOpacity": "0.1"
+                "overlay": true,
+                "overlayOpacity": "0.2",
+                "overlayColor": "#000000"
               }
             ]
           },
-          "articleLayout": false,
+          "articleLayout": true,
           "_tags": [
             "Theme"
           ],
-          "_name": "slider",
-          "_anchor": "slider-2e"
+          "_name": "slider2",
+          "_anchor": "slider2-2d"
         },
         {
           "_params": {
@@ -4349,6 +4510,12 @@
           ],
           "_name": "footer1",
           "_anchor": "footer1-7"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "instagram"
         },
         {
           "_params": {
