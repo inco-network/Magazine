@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Home shop n more demo",
-    "currentPage": "stores.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -14,7 +14,7 @@
       ]
     },
     "versionFirst": "4.6.2",
-    "uniqCompNum": 86,
+    "uniqCompNum": 89,
     "versionPublish": "4.9.4",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -477,6 +477,148 @@
           "_anchor": "footer1-7"
         },
         {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": "24",
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/background2-263x300.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/-small-ball-angel-1-copy-720x1280.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Επιτραπέζιο φωτιστικό αμπαζούρ",
+          "text": "Κλασσικό πορτατίφ με αμπαζούρ, μπρούτζινη βάση, γυάλινη μπάλα στο κορμό και αγγελάκι.\n<div>\n</div><div>Ύψος 40 εκ. Λαμπτήρας 1X60 watt max Ε14 Απόχρωση πορτατίφ πατίνα.</div>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#000000"
+            },
+            ".mbr-header__subtext": {
+              "color": "#000000"
+            },
+            ".mbr-article": {
+              "color": "#000000"
+            },
+            ".mbr-article P": {
+              "color": "#000000"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "<p>&nbsp; &nbsp; HOME SHOP N MORE 30/3/2020<br></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-link\" href=\"https://kplightsbronze.com/2015/12/02/%ce%ad-%cf%8c-%cf%8d/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-2g"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "60",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/-banker-with-frames1-copy-1280x720.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Φωτιστικό γραφείου τραπεζίτη (Banker)",
+          "text": "Φωτιστικό γραφείου τραπεζίτη (Banker) μπρούτζινο με γυαλί οπαλίνα πράσινο. Τετράγωνη βάση κορμός και μπράτσα\n<div>&nbsp;Ύψος 32 εκ. 1 φως X 60 watt max E14</div>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#000000"
+            },
+            ".mbr-header__subtext": {
+              "color": "#000000"
+            },
+            ".mbr-article": {
+              "color": "#000000"
+            },
+            ".mbr-article P": {
+              "color": "#000000"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "&nbsp; &nbsp; HOME SHOP N MORE 30/3/2020",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-link\" href=\"https://kplightsbronze.com/2018/06/20/%ce%af-%ce%af-banker\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-2f"
+        },
+        {
           "_params": {
             "showHeader": true,
             "showSubheader": false,
@@ -645,13 +787,84 @@
           "_inherit": "msg-box5",
           "_params": {
             "showTitle": true,
+            "showMeta": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "60",
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/-white-1-1-copy-1280x720.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Νέα σχέδια φωτιστικών &amp; διακοσμητικών για το σπίτι ή δώρο",
+          "text": "Μπορείτε να το παραγγείλετε. Δεν επιβαρύνεστε με έξοδα αποστολής. Η αποστολή γίνεται από εμάς μέσω πρακτορείου της περιοχής σας",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#000000"
+            },
+            ".mbr-header__subtext": {
+              "color": "#000000"
+            },
+            ".mbr-article": {
+              "color": "#000000"
+            },
+            ".mbr-article P": {
+              "color": "#000000"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "&nbsp; &nbsp; HOME SHOP N MORE 30/3/2020",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-link\" href=\"https://kplightsbronze.com/category/%ce%b4%ce%b9%ce%b1%ce%ba%ce%bf%cf%83%ce%bc%ce%b7%cf%84%ce%b9%ce%ba%ce%ac/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-2e"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
             "showMeta": false,
             "showText": true,
             "showButtons": false,
             "inverse": true,
-            "imageSize": "60",
+            "imageSize": "43",
             "paddingTop": "1",
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
