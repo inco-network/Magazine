@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Home shop n more demo",
-    "currentPage": "index.html",
+    "currentPage": "stores.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -10,11 +10,12 @@
         "#0a2813",
         "#615f0e",
         "#0f1dea",
-        "#2c2a20"
+        "#2c2a20",
+        "#e4ece2"
       ]
     },
     "versionFirst": "4.6.2",
-    "uniqCompNum": 89,
+    "uniqCompNum": 91,
     "versionPublish": "4.9.4",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -543,7 +544,7 @@
           },
           "headerAlign": "left",
           "meta": "<p>&nbsp; &nbsp; HOME SHOP N MORE 30/3/2020<br></p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-link\" href=\"https://kplightsbronze.com/2015/12/02/%ce%ad-%cf%8c-%cf%8d/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-link\" href=\"https://kplightsbronze.com/2015/12/02/%ce%ad-%cf%8c-%cf%8d/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-sale mbr-iconfont mbr-iconfont-btn\"></span>LEARN MORE</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-2g"
         },
@@ -614,7 +615,7 @@
           },
           "headerAlign": "left",
           "meta": "&nbsp; &nbsp; HOME SHOP N MORE 30/3/2020",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-link\" href=\"https://kplightsbronze.com/2018/06/20/%ce%af-%ce%af-banker\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-link\" href=\"https://kplightsbronze.com/2018/06/20/%ce%af-%ce%af-banker\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-sale mbr-iconfont mbr-iconfont-btn\"></span>LEARN MORE</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-2f"
         },
@@ -850,7 +851,7 @@
           },
           "headerAlign": "left",
           "meta": "&nbsp; &nbsp; HOME SHOP N MORE 30/3/2020",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-link\" href=\"https://kplightsbronze.com/category/%ce%b4%ce%b9%ce%b1%ce%ba%ce%bf%cf%83%ce%bc%ce%b7%cf%84%ce%b9%ce%ba%ce%ac/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-link\" href=\"https://kplightsbronze.com/category/%ce%b4%ce%b9%ce%b1%ce%ba%ce%bf%cf%83%ce%bc%ce%b7%cf%84%ce%b9%ce%ba%ce%ac/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-sale mbr-iconfont mbr-iconfont-btn\"></span>LEARN MORE</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-2e"
         },
@@ -4194,6 +4195,77 @@
               "color": "#0a2813"
             }
           }
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "31",
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/-opal-glass-lamp-1-copy-720x1013.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Επιτραπέζια λάμπα με πορσελάνη",
+          "text": "Επιτραπέζια λάμπα από πορσελάνη (Φαγιάνς) μπλε δεμένη με μπρούτζο και γυαλί οπαλίνα  Υψος 53 εκ. Λαμπτήρας 1Χ60 watt max E14 Τιμή: €230.00 με ΦΠΑ 24%. Μπορείτε να το παραγγείλετε καλώντας στο 697 914 9356 ή να το αγοράσετε κάνοντας κλικ στη τιμή. Δεν επιβαρύνεστε με έξοδα αποστολής. Η αποστολή γίνεται από εμάς μέσω πρακτορείου της περιοχής σας",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#000000"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#000000"
+            },
+            ".mbr-article P": {
+              "color": "#000000"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-link\" href=\"https://kplightsbronze.com/2016/03/01/%ce%b5%cf%80%ce%b9%cf%84%cf%81%ce%b1%cf%80%ce%ad%ce%b6%ce%b9%ce%b1-%ce%bb%ce%ac%ce%bc%cf%80%ce%b1-%ce%bc%ce%b5-%cf%80%ce%bf%cf%81%cf%83%ce%b5%ce%bb%ce%ac%ce%bd%ce%b7-%cf%8010421/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-sale mbr-iconfont mbr-iconfont-btn\"></span>LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-2h"
         },
         {
           "_inherit": "msg-box5",

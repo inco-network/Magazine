@@ -268,6 +268,18 @@
 #content4-2a P {
   color: #0a2813;
 }
+#msg-box4-2h .mbr-header__text {
+  color: #000000;
+}
+#msg-box4-2h .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-2h .mbr-article {
+  color: #000000;
+}
+#msg-box4-2h .mbr-article P {
+  color: #000000;
+}
 #msg-box4-29 .mbr-header__text {
   color: #000000;
 }
