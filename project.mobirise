@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Home shop n more demo",
-    "currentPage": "index.html",
+    "currentPage": "stores.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -62,7 +62,7 @@
             "fontName": {},
             "fontColor": "#0a2813"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"http://inco-network.com\" aria-expanded=\"false\">Menu</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-k\">Ενημέρωση</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://inco-network.com\" target=\"_blank\">Github</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://homeshopnmore.blogspot.gr\" target=\"_blank\">Blog</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://homeshopnmore.blogspot.gr\" target=\"_blank\">Διαφημιζόμενοι</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"stores.html\" aria-expanded=\"false\">Καταστήματα</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-a\">Call</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">FOR WINDOWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">FOR MAC</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"http://inco-network.com\" aria-expanded=\"true\">Menu</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-k\">Ενημέρωση</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://inco-network.com\" target=\"_blank\">Github</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://homeshopnmore.blogspot.gr\" target=\"_blank\">Blog</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://homeshopnmore.blogspot.gr\" target=\"_blank\">Διαφημιζόμενοι</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"stores.html\" aria-expanded=\"false\">Καταστήματα</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-a\">Call</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">FOR WINDOWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">FOR MAC</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -474,7 +474,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2018 Inco Network. <a class=\"mbr-footer__link text-gray\" href=\"https://inco-network.github.io/Matrix/\" target=\"_blank\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://inco-network.blogspot.gr/p/blog-page_92.html\" target=\"_blank\">Privacy Policy</a>",
+          "text": "Copyright (c) 2018 <a href=\"http://inconetwork.com\" target=\"_blank\">Inco Network</a>. <a class=\"mbr-footer__link text-gray\" href=\"https://inco-network.github.io/Matrix/\" target=\"_blank\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://inco-network.blogspot.gr/p/blog-page_92.html\" target=\"_blank\">Privacy Policy</a>",
           "_tags": [
             "Theme"
           ],
@@ -1425,8 +1425,8 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>ADDRESS</strong><br>13231 Perikleous 56<br>\nCity,Athens, petroupoli, Greece<br><br>\n<strong>CONTACTS</strong><br>\nEmail: sales@inco-network.com<br>\nPhone: +(30)697 9149356<br>\nFax: + (30) 210 5016642",
-          "text2": "<p class=\"mbr-contacts__text\"><b>BLOGS</b></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://inco-network.com\">Inco Network</a></li><li><a href=\"http://enikiazete.blogspot.gr/\" target=\"_blank\">Αγγελίες</a> Blog με μικρές αγγελίες διαφόρων ειδικοτήτων</li><li><a href=\"http://in-commerce.blogspot.gr/\" target=\"_blank\">Info commerce</a> technology Πληροφορίες εμπορίου τεχνολογίας</li><li><a href=\"https://genius-templates.blogspot.gr/\" target=\"_blank\">Web templates</a> Θέματα &nbsp;με παραδείγματα διαστάσεων διαφημιστηκών κειμένων</li><li><br></li></ul>",
+          "text1": "<strong>ADDRESS</strong><br>13231 Perikleous 56<br>\nCity,Athens, petroupoli, Greece<br><br>\n<strong>CONTACTS</strong><br>\nEmail: sales@inconetwork.com<br>\nPhone: +(30)697 9149356<br>\nFax: + (30) 210 2642011",
+          "text2": "<p class=\"mbr-contacts__text\"><b>BLOGS</b></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://inconetwork.com\" target=\"_blank\">Inco Network</a></li><li><a href=\"http://enikiazete.blogspot.gr/\" target=\"_blank\">Αγγελίες</a> Blog με μικρές αγγελίες διαφόρων ειδικοτήτων</li><li><a href=\"http://in-commerce.blogspot.gr/\" target=\"_blank\">Info commerce</a> technology Πληροφορίες εμπορίου τεχνολογίας</li><li><a href=\"https://genius-templates.blogspot.gr/\" target=\"_blank\">Web templates</a> Θέματα &nbsp;με παραδείγματα διαστάσεων διαφημιστηκών κειμένων</li><li><br></li></ul>",
           "_tags": [
             "Theme"
           ],
@@ -1966,7 +1966,7 @@
             "fontName": {},
             "fontColor": "#0a2813"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"http://inco-network.com\" aria-expanded=\"false\">Menu</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-k\">Ενημέρωση</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://inco-network.com\" target=\"_blank\">Github</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://homeshopnmore.blogspot.gr\" target=\"_blank\">Blog</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://homeshopnmore.blogspot.gr\" target=\"_blank\">Διαφημιζόμενοι</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"stores.html\" aria-expanded=\"false\">Καταστήματα</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-a\">Call</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">FOR WINDOWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">FOR MAC</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"http://inco-network.com\" aria-expanded=\"true\">Menu</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-k\">Ενημέρωση</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://inco-network.com\" target=\"_blank\">Github</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://homeshopnmore.blogspot.gr\" target=\"_blank\">Blog</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://homeshopnmore.blogspot.gr\" target=\"_blank\">Διαφημιζόμενοι</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"stores.html\" aria-expanded=\"false\">Καταστήματα</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-a\">Call</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">FOR WINDOWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">FOR MAC</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -2018,7 +2018,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2018 Inco Network. <a class=\"mbr-footer__link text-gray\" href=\"https://inco-network.github.io/Matrix/\" target=\"_blank\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://inco-network.blogspot.gr/p/blog-page_92.html\" target=\"_blank\">Privacy Policy</a>",
+          "text": "Copyright (c) 2018 <a href=\"http://inconetwork.com\" target=\"_blank\">Inco Network</a>. <a class=\"mbr-footer__link text-gray\" href=\"https://inco-network.github.io/Matrix/\" target=\"_blank\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://inco-network.blogspot.gr/p/blog-page_92.html\" target=\"_blank\">Privacy Policy</a>",
           "_tags": [
             "Theme"
           ],
@@ -2558,7 +2558,7 @@
             "fontName": {},
             "fontColor": "#0a2813"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"http://inco-network.com\" aria-expanded=\"false\">Menu</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-k\">Ενημέρωση</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://inco-network.com\" target=\"_blank\">Github</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://homeshopnmore.blogspot.gr\" target=\"_blank\">Blog</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://homeshopnmore.blogspot.gr\" target=\"_blank\">Διαφημιζόμενοι</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"stores.html\" aria-expanded=\"false\">Καταστήματα</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-a\">Call</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">FOR WINDOWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">FOR MAC</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"http://inco-network.com\" aria-expanded=\"true\">Menu</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-k\">Ενημέρωση</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://inco-network.com\" target=\"_blank\">Github</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://homeshopnmore.blogspot.gr\" target=\"_blank\">Blog</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://homeshopnmore.blogspot.gr\" target=\"_blank\">Διαφημιζόμενοι</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"stores.html\" aria-expanded=\"false\">Καταστήματα</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-a\">Call</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">FOR WINDOWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">FOR MAC</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -2610,7 +2610,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2018 Inco Network. <a class=\"mbr-footer__link text-gray\" href=\"https://inco-network.github.io/Matrix/\" target=\"_blank\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://inco-network.blogspot.gr/p/blog-page_92.html\" target=\"_blank\">Privacy Policy</a>",
+          "text": "Copyright (c) 2018 <a href=\"http://inconetwork.com\" target=\"_blank\">Inco Network</a>. <a class=\"mbr-footer__link text-gray\" href=\"https://inco-network.github.io/Matrix/\" target=\"_blank\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://inco-network.blogspot.gr/p/blog-page_92.html\" target=\"_blank\">Privacy Policy</a>",
           "_tags": [
             "Theme"
           ],
@@ -3150,7 +3150,7 @@
             "fontName": {},
             "fontColor": "#0a2813"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"http://inco-network.com\" aria-expanded=\"false\">Menu</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-k\">Ενημέρωση</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://inco-network.com\" target=\"_blank\">Github</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://homeshopnmore.blogspot.gr\" target=\"_blank\">Blog</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://homeshopnmore.blogspot.gr\" target=\"_blank\">Διαφημιζόμενοι</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"stores.html\" aria-expanded=\"false\">Καταστήματα</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-a\">Call</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">FOR WINDOWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">FOR MAC</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"http://inco-network.com\" aria-expanded=\"true\">Menu</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-k\">Ενημέρωση</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://inco-network.com\" target=\"_blank\">Github</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://homeshopnmore.blogspot.gr\" target=\"_blank\">Blog</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://homeshopnmore.blogspot.gr\" target=\"_blank\">Διαφημιζόμενοι</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"stores.html\" aria-expanded=\"false\">Καταστήματα</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-a\">Call</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">FOR WINDOWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">FOR MAC</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -3202,7 +3202,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2018 Inco Network. <a class=\"mbr-footer__link text-gray\" href=\"https://inco-network.github.io/Matrix/\" target=\"_blank\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://inco-network.blogspot.gr/p/blog-page_92.html\" target=\"_blank\">Privacy Policy</a>",
+          "text": "Copyright (c) 2018 <a href=\"http://inconetwork.com\" target=\"_blank\">Inco Network</a>. <a class=\"mbr-footer__link text-gray\" href=\"https://inco-network.github.io/Matrix/\" target=\"_blank\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://inco-network.blogspot.gr/p/blog-page_92.html\" target=\"_blank\">Privacy Policy</a>",
           "_tags": [
             "Theme"
           ],
@@ -3742,7 +3742,7 @@
             "fontName": {},
             "fontColor": "#0a2813"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"http://inco-network.com\" aria-expanded=\"false\">Menu</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-k\">Ενημέρωση</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://inco-network.com\" target=\"_blank\">Github</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://homeshopnmore.blogspot.gr\" target=\"_blank\">Blog</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://homeshopnmore.blogspot.gr\" target=\"_blank\">Διαφημιζόμενοι</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"stores.html\" aria-expanded=\"false\">Καταστήματα</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-a\">Call</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">FOR WINDOWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">FOR MAC</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"http://inco-network.com\" aria-expanded=\"true\">Menu</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-k\">Ενημέρωση</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://inco-network.com\" target=\"_blank\">Github</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://homeshopnmore.blogspot.gr\" target=\"_blank\">Blog</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://homeshopnmore.blogspot.gr\" target=\"_blank\">Διαφημιζόμενοι</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"stores.html\" aria-expanded=\"false\">Καταστήματα</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-a\">Call</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">FOR WINDOWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">FOR MAC</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -3794,7 +3794,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2018 Inco Network. <a class=\"mbr-footer__link text-gray\" href=\"https://inco-network.github.io/Matrix/\" target=\"_blank\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://inco-network.blogspot.gr/p/blog-page_92.html\" target=\"_blank\">Privacy Policy</a>",
+          "text": "Copyright (c) 2018 <a href=\"http://inconetwork.com\" target=\"_blank\">Inco Network</a>. <a class=\"mbr-footer__link text-gray\" href=\"https://inco-network.github.io/Matrix/\" target=\"_blank\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://inco-network.blogspot.gr/p/blog-page_92.html\" target=\"_blank\">Privacy Policy</a>",
           "_tags": [
             "Theme"
           ],
@@ -3826,7 +3826,7 @@
             "fontName": {},
             "fontColor": "#0a2813"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"http://inco-network.com\" aria-expanded=\"false\">Menu</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-k\">Ενημέρωση</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://inco-network.com\" target=\"_blank\">Github</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://homeshopnmore.blogspot.gr\" target=\"_blank\">Blog</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://homeshopnmore.blogspot.gr\" target=\"_blank\">Διαφημιζόμενοι</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"stores.html\" aria-expanded=\"false\">Καταστήματα</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-a\">Call</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">FOR WINDOWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">FOR MAC</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"http://inco-network.com\" aria-expanded=\"true\">Menu</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-k\">Ενημέρωση</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://inco-network.com\" target=\"_blank\">Github</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://homeshopnmore.blogspot.gr\" target=\"_blank\">Blog</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://homeshopnmore.blogspot.gr\" target=\"_blank\">Διαφημιζόμενοι</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"stores.html\" aria-expanded=\"false\">Καταστήματα</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-a\">Call</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">FOR WINDOWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">FOR MAC</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -4955,7 +4955,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2018 Inco Network. <a class=\"mbr-footer__link text-gray\" href=\"https://inco-network.github.io/Matrix/\" target=\"_blank\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://inco-network.blogspot.gr/p/blog-page_92.html\" target=\"_blank\">Privacy Policy</a>",
+          "text": "Copyright (c) 2018 <a href=\"http://inconetwork.com\" target=\"_blank\">Inco Network</a>. <a class=\"mbr-footer__link text-gray\" href=\"https://inco-network.github.io/Matrix/\" target=\"_blank\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://inco-network.blogspot.gr/p/blog-page_92.html\" target=\"_blank\">Privacy Policy</a>",
           "_tags": [
             "Theme"
           ],
@@ -4987,8 +4987,8 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>ADDRESS</strong><br>13231 Perikleous 56<br>\nCity,Athens, petroupoli, Greece<br><br>\n<strong>CONTACTS</strong><br>\nEmail: sales@inco-network.com<br>\nPhone: +(30)697 9149356<br>\nFax: + (30) 210 5016642",
-          "text2": "<p class=\"mbr-contacts__text\"><b>BLOGS</b></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://inco-network.com\">Inco Network</a></li><li><a href=\"http://enikiazete.blogspot.gr/\" target=\"_blank\">Αγγελίες</a> Blog με μικρές αγγελίες διαφόρων ειδικοτήτων</li><li><a href=\"http://in-commerce.blogspot.gr/\" target=\"_blank\">Info commerce</a> technology Πληροφορίες εμπορίου τεχνολογίας</li><li><a href=\"https://genius-templates.blogspot.gr/\" target=\"_blank\">Web templates</a> Θέματα &nbsp;με παραδείγματα διαστάσεων διαφημιστηκών κειμένων</li><li><br></li></ul>",
+          "text1": "<strong>ADDRESS</strong><br>13231 Perikleous 56<br>\nCity,Athens, petroupoli, Greece<br><br>\n<strong>CONTACTS</strong><br>\nEmail: sales@inconetwork.com<br>\nPhone: +(30)697 9149356<br>\nFax: + (30) 210 2642011",
+          "text2": "<p class=\"mbr-contacts__text\"><b>BLOGS</b></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://inconetwork.com\" target=\"_blank\">Inco Network</a></li><li><a href=\"http://enikiazete.blogspot.gr/\" target=\"_blank\">Αγγελίες</a> Blog με μικρές αγγελίες διαφόρων ειδικοτήτων</li><li><a href=\"http://in-commerce.blogspot.gr/\" target=\"_blank\">Info commerce</a> technology Πληροφορίες εμπορίου τεχνολογίας</li><li><a href=\"https://genius-templates.blogspot.gr/\" target=\"_blank\">Web templates</a> Θέματα &nbsp;με παραδείγματα διαστάσεων διαφημιστηκών κειμένων</li><li><br></li></ul>",
           "_tags": [
             "Theme"
           ],
