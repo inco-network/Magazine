@@ -44,6 +44,16 @@
 #msg-box3-4 .mbr-header .mbr-header__subtext {
   text-align: center;
 }
+#msg-box3-4 .mbr-article {
+  color: #000000;
+}
+#msg-box3-4 .mbr-article DIV {
+  font-size: 20px;
+}
+#msg-box3-4 .mbr-article B {
+  font-size: 20px;
+  color: #000000;
+}
 #msg-box5-5 .mbr-header__text {
   color: #ffffff;
 }
@@ -242,6 +252,9 @@
 #header1-1 P {
   color: #0a2813;
 }
+#header1-1 H1 {
+  color: #000000;
+}
 #content5-28 .mbr-header .mbr-header__text {
   text-align: center;
   color: #fff;
@@ -266,7 +279,7 @@
   color: #000000;
 }
 #content4-2a P {
-  color: #0a2813;
+  color: #000000;
 }
 #msg-box4-2h .mbr-header__text {
   color: #000000;

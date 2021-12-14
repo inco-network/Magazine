@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Home shop n more demo",
-    "currentPage": "stores.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -62,7 +62,7 @@
             "fontName": {},
             "fontColor": "#0a2813"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"http://inco-network.com\" aria-expanded=\"true\">Menu</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-k\">Ενημέρωση</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://inco-network.com\" target=\"_blank\">Github</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://homeshopnmore.blogspot.gr\" target=\"_blank\">Blog</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://homeshopnmore.blogspot.gr\" target=\"_blank\">Διαφημιζόμενοι</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"stores.html\" aria-expanded=\"false\">Καταστήματα</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-a\">Call</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">FOR WINDOWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">FOR MAC</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://inco-network.github.io/Magazine/\" aria-expanded=\"true\">Menu</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://inco-network.github.io/Magazine/\" aria-expanded=\"false\">Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-k\">Ενημέρωση</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://inco-network.com\" target=\"_blank\">Github</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://homeshopnmore.blogspot.gr\" target=\"_blank\">Blog</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://homeshopnmore.blogspot.gr\" target=\"_blank\">Διαφημιζόμενοι</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"stores.html\" aria-expanded=\"false\">Καταστήματα</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-a\">Call</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">FOR WINDOWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">FOR MAC</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -195,7 +195,7 @@
             "showArrow": false,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/glass-gallaxy-copy-10-1280x720.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1152.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
@@ -287,6 +287,16 @@
             },
             ".mbr-header .mbr-header__subtext": {
               "text-align": "center"
+            },
+            ".mbr-article": {
+              "color": "#000000"
+            },
+            ".mbr-article DIV": {
+              "font-size": "20px"
+            },
+            ".mbr-article B": {
+              "font-size": "20px",
+              "color": "#000000"
             }
           },
           "_params": {
@@ -298,7 +308,7 @@
             "paddingTop": "4",
             "paddingBottom": "4",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/crystall-de-majo-1-1280x720.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-6-1920x1280.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -313,7 +323,7 @@
           },
           "title": "MODERN STYLES",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "Ασχολούμαστε με τη κατασκευή το εμπόριο τη προβολή τη πληροφορία τη διαφήμιση\n<div>Ειδικότητα μας είναι τα θέματα διακόσμηση εσωτερικών εξωτερικών χώρων φωτισμός έπιπλα διάφορα αντικείμενα λεπτομέρειες κατασκευής ποιότητα ειδικές τεχνικές λεπτομέρειες</div>",
+          "text": "<b>Ασχολούμαστε με τη κατασκευή το εμπόριο τη προβολή τη πληροφορία τη διαφήμιση\n</b><div><b>Ειδικότητα μας είναι τα θέματα διακόσμηση εσωτερικών εξωτερικών χώρων φωτισμός έπιπλα διάφορα αντικείμενα λεπτομέρειες κατασκευής ποιότητα ειδικές τεχνικές λεπτομέρειες</b></div>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">ΠΑΡΑΔΕΙΓΜΑΤΑ</a>",
           "_tags": [
             "Theme"
@@ -392,18 +402,11 @@
             "bgColor": "#ffffff",
             "images": [
               {
-                "image": "@PROJECT_PATH@/assets/images/stage-2-image-expirement-rogaska-1-1200x720.png",
-                "thumb": "@PROJECT_PATH@/assets/images/stage-2-image-expirement-rogaska-1-1200x720-800x480.png",
+                "image": "@PROJECT_PATH@/assets/images/-1-1280x720.png",
+                "thumb": "@PROJECT_PATH@/assets/images/1-1280x720-800x450.png",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/glass-gallaxy-2-copy-15-1280x720.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/glass-gallaxy-2-copy-15-1280x720-800x450.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false,
+                "active": true,
                 "title": ""
               },
               {
@@ -415,11 +418,11 @@
                 "title": ""
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/glgus-1282x722.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/glgus-1282x722-800x451.jpg",
+                "image": "@PROJECT_PATH@/assets/images/industrial-seeling-3-light-bronze-bar-chandelier-536x713.png",
+                "thumb": "@PROJECT_PATH@/assets/images/industrial-seeling-3-light-bronze-bar-chandelier-536x713-536x713.png",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": true,
+                "active": false,
                 "title": ""
               },
               {
@@ -431,8 +434,8 @@
                 "title": ""
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/glass-gallaxy-copy14-1280x720.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/glass-gallaxy-copy14-1280x720-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dscn0012-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dscn0012-2000x1500-800x600.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false,
@@ -1512,7 +1515,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/orrefors-desig-n-elixir17-600x337.jpg",
+              "src": "@PROJECT_PATH@/assets/images/dscn0003-2-600x749.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1535,7 +1538,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/design15-600x337.jpg",
+              "src": "@PROJECT_PATH@/assets/images/industrial-seeling-3-light-bronze-bar-chandelier-536x713.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1966,7 +1969,7 @@
             "fontName": {},
             "fontColor": "#0a2813"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"http://inco-network.com\" aria-expanded=\"true\">Menu</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-k\">Ενημέρωση</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://inco-network.com\" target=\"_blank\">Github</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://homeshopnmore.blogspot.gr\" target=\"_blank\">Blog</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://homeshopnmore.blogspot.gr\" target=\"_blank\">Διαφημιζόμενοι</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"stores.html\" aria-expanded=\"false\">Καταστήματα</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-a\">Call</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">FOR WINDOWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">FOR MAC</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://inco-network.github.io/Magazine/\" aria-expanded=\"true\">Menu</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://inco-network.github.io/Magazine/\" aria-expanded=\"false\">Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-k\">Ενημέρωση</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://inco-network.com\" target=\"_blank\">Github</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://homeshopnmore.blogspot.gr\" target=\"_blank\">Blog</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://homeshopnmore.blogspot.gr\" target=\"_blank\">Διαφημιζόμενοι</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"stores.html\" aria-expanded=\"false\">Καταστήματα</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-a\">Call</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">FOR WINDOWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">FOR MAC</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -2558,7 +2561,7 @@
             "fontName": {},
             "fontColor": "#0a2813"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"http://inco-network.com\" aria-expanded=\"true\">Menu</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-k\">Ενημέρωση</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://inco-network.com\" target=\"_blank\">Github</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://homeshopnmore.blogspot.gr\" target=\"_blank\">Blog</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://homeshopnmore.blogspot.gr\" target=\"_blank\">Διαφημιζόμενοι</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"stores.html\" aria-expanded=\"false\">Καταστήματα</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-a\">Call</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">FOR WINDOWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">FOR MAC</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://inco-network.github.io/Magazine/\" aria-expanded=\"true\">Menu</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://inco-network.github.io/Magazine/\" aria-expanded=\"false\">Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-k\">Ενημέρωση</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://inco-network.com\" target=\"_blank\">Github</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://homeshopnmore.blogspot.gr\" target=\"_blank\">Blog</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://homeshopnmore.blogspot.gr\" target=\"_blank\">Διαφημιζόμενοι</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"stores.html\" aria-expanded=\"false\">Καταστήματα</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-a\">Call</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">FOR WINDOWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">FOR MAC</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -3150,7 +3153,7 @@
             "fontName": {},
             "fontColor": "#0a2813"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"http://inco-network.com\" aria-expanded=\"true\">Menu</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-k\">Ενημέρωση</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://inco-network.com\" target=\"_blank\">Github</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://homeshopnmore.blogspot.gr\" target=\"_blank\">Blog</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://homeshopnmore.blogspot.gr\" target=\"_blank\">Διαφημιζόμενοι</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"stores.html\" aria-expanded=\"false\">Καταστήματα</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-a\">Call</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">FOR WINDOWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">FOR MAC</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://inco-network.github.io/Magazine/\" aria-expanded=\"true\">Menu</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://inco-network.github.io/Magazine/\" aria-expanded=\"false\">Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-k\">Ενημέρωση</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://inco-network.com\" target=\"_blank\">Github</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://homeshopnmore.blogspot.gr\" target=\"_blank\">Blog</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://homeshopnmore.blogspot.gr\" target=\"_blank\">Διαφημιζόμενοι</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"stores.html\" aria-expanded=\"false\">Καταστήματα</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-a\">Call</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">FOR WINDOWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">FOR MAC</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -3265,7 +3268,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/110-sofiero-1961-orrrefors-378x378.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-1-600x338.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -3288,7 +3291,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/115-sofiero-bowl-378x378.jpg",
+              "src": "@PROJECT_PATH@/assets/images/dscn0024-600x559.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -3311,7 +3314,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/54-black-svart-378x378.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-20211114-120738-600x450.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -3742,7 +3745,7 @@
             "fontName": {},
             "fontColor": "#0a2813"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"http://inco-network.com\" aria-expanded=\"true\">Menu</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-k\">Ενημέρωση</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://inco-network.com\" target=\"_blank\">Github</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://homeshopnmore.blogspot.gr\" target=\"_blank\">Blog</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://homeshopnmore.blogspot.gr\" target=\"_blank\">Διαφημιζόμενοι</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"stores.html\" aria-expanded=\"false\">Καταστήματα</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-a\">Call</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">FOR WINDOWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">FOR MAC</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://inco-network.github.io/Magazine/\" aria-expanded=\"true\">Menu</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://inco-network.github.io/Magazine/\" aria-expanded=\"false\">Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-k\">Ενημέρωση</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://inco-network.com\" target=\"_blank\">Github</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://homeshopnmore.blogspot.gr\" target=\"_blank\">Blog</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://homeshopnmore.blogspot.gr\" target=\"_blank\">Διαφημιζόμενοι</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"stores.html\" aria-expanded=\"false\">Καταστήματα</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-a\">Call</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">FOR WINDOWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">FOR MAC</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -3826,7 +3829,7 @@
             "fontName": {},
             "fontColor": "#0a2813"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"http://inco-network.com\" aria-expanded=\"true\">Menu</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-k\">Ενημέρωση</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://inco-network.com\" target=\"_blank\">Github</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://homeshopnmore.blogspot.gr\" target=\"_blank\">Blog</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://homeshopnmore.blogspot.gr\" target=\"_blank\">Διαφημιζόμενοι</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"stores.html\" aria-expanded=\"false\">Καταστήματα</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-a\">Call</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">FOR WINDOWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">FOR MAC</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://inco-network.github.io/Magazine/\" aria-expanded=\"true\">Menu</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://inco-network.github.io/Magazine/\" aria-expanded=\"false\">Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-k\">Ενημέρωση</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://inco-network.com\" target=\"_blank\">Github</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://homeshopnmore.blogspot.gr\" target=\"_blank\">Blog</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://homeshopnmore.blogspot.gr\" target=\"_blank\">Διαφημιζόμενοι</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"stores.html\" aria-expanded=\"false\">Καταστήματα</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-a\">Call</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">FOR WINDOWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">FOR MAC</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -3874,7 +3877,7 @@
             "showArrow": true,
             "contentAlign": "right",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1920x1280.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1278.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
@@ -3885,12 +3888,12 @@
               "width": 1280,
               "height": 720
             },
-            "overlay": true,
+            "overlay": false,
             "overlayColor": "#ffffff",
             "overlayOpacity": "0.4"
           },
           "title": "HOME SHOP N MORE",
-          "text": "Εσωτερική διακόσμηση 2021.Φέτος ανανεώστε τη διακόσμηση του σπιτιού και ανακαλύψτε τα προϊόντα των καταστημάτων που προβάλλονται στις σελίδες μας.\n<br>",
+          "text": "Εσωτερική διακόσμηση 2021-22.Φέτος ανανεώστε τη διακόσμηση του σπιτιού και ανακαλύψτε τα προϊόντα των καταστημάτων που προβάλλονται στις σελίδες μας.\n<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"index.html#form2-8\" data-toolbar=\"-mbrBtnMove\">Εγγραφή</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"http://homeshopnmore.blogspot.gr/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a>",
           "_tags": [
             "Theme"
@@ -3900,6 +3903,9 @@
           "_styles": {
             "P": {
               "color": "#0a2813"
+            },
+            "H1": {
+              "color": "#000000"
             }
           }
         },
@@ -3927,7 +3933,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mori-cutlery-4-copy-1280x720.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1188.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
@@ -3940,7 +3946,7 @@
             "overlayColor": "#475577",
             "overlayOpacity": "0.5"
           },
-          "title": "Στυλ κλασικό!",
+          "title": "Στυλ κλασσικό νεοκλασικό μοντέρνο!",
           "text": "Στο trailer θέλουμε να πούμε ότι στο εργαστήριο, όταν ετοιμάζουμε την επόμενη δουλειά επικρατεί ένας χαμός.\n<div>Ασχολούμαστε με τη κατασκευή το εμπόριο τη προβολή τη πληροφορία τη διαφήμιση\n</div><div>Ειδικότητα μας είναι τα θέματα διακόσμηση εσωτερικών εξωτερικών χώρων φωτισμός έπιπλα διάφορα αντικείμενα λεπτομέρειες κατασκευής ποιότητα ειδικές τεχνικές λεπτομέρειες.Πώληση, διαφήμιση, Κατασκευή ιστοσελίδων, διαφημιστικών κειμένων, e-shop</div>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
@@ -4054,7 +4060,7 @@
             "paddingBottom": "1",
             "columns": "2",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-2-copy-1280x720.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/de-majo-22-e-1897x1761.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -4196,7 +4202,7 @@
           "_anchor": "content4-2a",
           "_styles": {
             "P": {
-              "color": "#0a2813"
+              "color": "#000000"
             }
           }
         },
@@ -4516,7 +4522,7 @@
             "paddingBottom": 3,
             "columns": "2",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mori-cutlery-1280x720.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-9-1920x1280.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
