@@ -21,6 +21,9 @@
 #header1-1 P {
   color: #0a3457;
 }
+#header1-1 H1 {
+  color: #615f0e;
+}
 #content5-d .mbr-header .mbr-header__text {
   text-align: center;
   color: #fff;
@@ -64,13 +67,13 @@
   color: #ffffff;
 }
 #msg-box4-2g .mbr-header__text {
-  color: #000000;
+  color: #faaf40;
 }
 #msg-box4-2g .mbr-header__subtext {
   color: #000000;
 }
 #msg-box4-2g .mbr-article {
-  color: #000000;
+  color: #e3bd00;
 }
 #msg-box4-2g .mbr-article P {
   color: #000000;
@@ -86,6 +89,22 @@
 }
 #msg-box4-2f .mbr-article P {
   color: #000000;
+}
+#msg-box4-2t .mbr-header__text {
+  color: #000000;
+}
+#msg-box4-2t .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-2t .mbr-article {
+  color: #000000;
+  font-size: 17px;
+}
+#msg-box4-2t .mbr-article P {
+  color: #000000;
+}
+#msg-box4-2t .mbr-article DIV {
+  font-size: 13px;
 }
 #msg-box4-2e .mbr-header__text {
   color: #000000;
