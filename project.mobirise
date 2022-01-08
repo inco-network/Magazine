@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Home shop n more demo",
-    "currentPage": "index.html",
+    "currentPage": "stores.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -17,11 +17,11 @@
       ]
     },
     "versionFirst": "4.6.2",
-    "uniqCompNum": 101,
-    "versionPublish": "4.9.4",
+    "uniqCompNum": 102,
+    "versionPublish": "5.2.0",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "favicon": "",
+    "favicon": false,
     "noImageResize": "",
     "cookiesAlert": {
       "colorText": "#424a4d",
@@ -32,11 +32,14 @@
       "text": "We use cookies to give you the best experience. Read our <a href='http://inco-network.blogspot.gr/p/blog-page_28.html'>cookie policy</a>."
     },
     "google-analytics": "",
-    "siteUrl": "",
+    "siteUrl": false,
     "sitemapSwitcherAuto": "on",
     "siteFonts": [],
-    "gdpr": "",
-    "imageResize": true
+    "gdpr": false,
+    "imageResize": true,
+    "publishChangesOnly": true,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false
   },
   "pages": {
     "index.html": {
@@ -108,9 +111,9 @@
             "showText": true,
             "showButtons": true,
             "showArrow": true,
-            "contentAlign": "right",
+            "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1147.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/-1-2copy-1280x720.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
@@ -121,8 +124,8 @@
               "width": 1280,
               "height": 720
             },
-            "overlay": false,
-            "overlayColor": "#ffffff",
+            "overlay": true,
+            "overlayColor": "#000000",
             "overlayOpacity": "0.4"
           },
           "title": "HOME SHOP N MORE",
@@ -166,7 +169,7 @@
             "paddingTop": "3",
             "paddingBottom": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1276.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1400x933.jpeg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -198,7 +201,7 @@
             "showArrow": false,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1152.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-20211114-120738-600x450.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
@@ -311,7 +314,7 @@
             "paddingTop": "4",
             "paddingBottom": "4",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-6-1920x1280.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/rogaska-color-copy-1280x720.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -498,10 +501,10 @@
             "imageSize": "24",
             "paddingTop": "0",
             "paddingBottom": "1",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1920x1147.jpg",
             "parallax": false,
-            "bgColorRadio": false,
+            "bgColorRadio": true,
             "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
@@ -3955,7 +3958,7 @@
             "showArrow": true,
             "contentAlign": "right",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1278.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1276.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
@@ -4012,7 +4015,7 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1188.jpg",
-            "parallax": true,
+            "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
             "bgVideoRadio": false,
@@ -5045,12 +5048,6 @@
           ],
           "_name": "footer1",
           "_anchor": "footer1-7"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "instagram"
         },
         {
           "_params": {
