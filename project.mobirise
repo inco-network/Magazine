@@ -17,7 +17,7 @@
       ]
     },
     "versionFirst": "4.6.2",
-    "uniqCompNum": 102,
+    "uniqCompNum": 104,
     "versionPublish": "5.2.0",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -169,8 +169,8 @@
             "paddingTop": "3",
             "paddingBottom": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1400x933.jpeg",
-            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-10-1920x1280.jpg",
+            "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#fff",
             "bgVideoRadio": false,
@@ -178,7 +178,7 @@
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "darkBackground": true,
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#28324e",
             "overlayOpacity": 0.2
           },
@@ -201,8 +201,8 @@
             "showArrow": false,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-20211114-120738-600x450.jpg",
-            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/adjustable-bronze-desk-lamp-1280x720.jpg",
+            "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
             "bgVideoRadio": false,
@@ -211,7 +211,7 @@
             },
             "overlay": true,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlayOpacity": "0.6"
           },
           "title": "ΦΩΤΙΣΤΙΚΑ",
           "text": "Βρείτε όλές τις κατηγορίες φωτιστικών στις σελίδες του Blog.",
@@ -469,6 +469,74 @@
           ],
           "_name": "gallery1",
           "_anchor": "gallery1-6"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/design-expirement-3-1-960x540.png",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/-1-716x720.jpg",
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Φωτιστικό οπαλίνα τετράγωνη με καλώδιο",
+          "text": "Φωτιστικό μονόφωτο με καλώδιο εξωτερική επένδυση συνθετικό μετάξι ,χρώμα καφέ. Μεταλλική ανάρτηση χρώμα καφέ της σκουριάς με μπρούτζινα stop καλωδίου. Γυαλί τετράγωνη λευκή ματ οπαλίνα. Ύψος με το γυαλί 1.20 μ. Ντουί 1 Ε14 Χ 60 watt. Μπορείτε να το παραγγείλετε καλώντας στο 697 914 9356 ή&nbsp;",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#000000"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#000000"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-link\" href=\"https://kplightsbronze.com/2021/12/31/%cf%86%cf%89%cf%84%ce%b9%cf%83%cf%84%ce%b9%ce%ba%cf%8c-%ce%bf%cf%80%ce%b1%ce%bb%ce%af%ce%bd%ce%b1-%cf%84%ce%b5%cf%84%cf%81%ce%ac%ce%b3%cf%89%ce%bd%ce%b7-%ce%bc%ce%b5-%ce%ba%ce%b1%ce%bb%cf%8e%ce%b4/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-sale mbr-iconfont mbr-iconfont-btn\"></span>LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-2u"
         },
         {
           "_params": {
@@ -4388,12 +4456,13 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/glass-gallaxy-copy-10-600x338.jpg",
+              "src": "@PROJECT_PATH@/assets/images/3-lights-bar-chandelier-copy-600x338.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "class": "mbr-figure__img",
@@ -4411,12 +4480,13 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/glass-gallaxy-copy-13-600x338.jpg",
+              "src": "@PROJECT_PATH@/assets/images/glass-gallaxy-2-opal-1alab-4-600x338.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "class": "mbr-figure__img",
@@ -4519,6 +4589,74 @@
           ],
           "_name": "features1",
           "_anchor": "features1-2r"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/3-white-opal-glass-bar-chandelier-1280x720.png",
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Φωτιστικό ράγας 3 φώτα με οπαλίνες",
+          "text": "Ράγα οροφής μήκος 60 εκ. Ύψος 25 εκ. Χρώμα καφέ της σκουριάς. Εφαρμογή απευθείας στο ταβάνι (Υλικά στήριξης περιέχονται) Ντουί E14 3Χ60 watt γυαλιά ματ λευκό οπαλίνα.&nbsp;",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#000000"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#000000"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-link\" href=\"https://kplightsbronze.com/2022/02/04/%cf%86%cf%89%cf%84%ce%b9%cf%83%cf%84%ce%b9%ce%ba%cf%8c-%cf%81%ce%ac%ce%b3%ce%b1%cf%82-3-%cf%86%cf%8e%cf%84%ce%b1-%ce%bc%ce%b5-%ce%bf%cf%80%ce%b1%ce%bb%ce%af%ce%bd%ce%b5%cf%82/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-2v"
         },
         {
           "_inherit": "msg-box5",
